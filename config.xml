@@ -53,7 +53,7 @@
         <splash height="1242" src="resources/splash/ios/Default-Landscape-736h.png" width="2208" />
     </platform>
     <platform name="android">
-        <plugin name="onesignal-cordova-plugin" source="npm" />
+        <plugin name="onesignal-cordova-plugin" spec="2.4.0" source="npm" />
         <preference name="Orientation" value="default" />
         <preference name="SplashScreenDelay" value="0" />
         <icon density="ldpi" src="resources/icon/android/icon-36.png" />
